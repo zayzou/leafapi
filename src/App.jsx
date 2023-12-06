@@ -1,4 +1,6 @@
+import {Home} from "./Home.jsx";
+
 const App = () => {
-  return <h2>Strapi Starter</h2>;
+  return <Home/>;
 };
 export default App;
